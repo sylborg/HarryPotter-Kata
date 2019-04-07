@@ -1,5 +1,5 @@
-# HarryPotter-Kata
-HarryPotter kata for practice TDD implemented in Java by Jorge Sánchez (Xurxodev) 
+# kata-potter-tdd
+HarryPotter Kata for practice TDD (Java implementation)
 
 ## Problem Description
 
